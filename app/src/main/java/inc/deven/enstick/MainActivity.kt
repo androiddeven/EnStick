@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val data = "Check in from dev_aminkinen"
+        val data = "Check in from dev_aminkinen test 2"
     }
 }
